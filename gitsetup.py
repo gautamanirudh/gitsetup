@@ -4,7 +4,7 @@ from github import Github
 '''Get your own access token from github
 Refer this : https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
 '''
-access_token = "2c0ec8e713af286f0b6c4421d9590f6e1cf2234b"
+access_token = "YOUR_ACCESS_TOKEN"
 g = Github(access_token)
 BASE_URL = "https://github.com/"
 
