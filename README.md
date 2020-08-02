@@ -7,7 +7,7 @@ Python script to easily setup a repository on github and cloning it to the curre
 
 ## Setup
 * Get your github access token.<br>
-[Refer this]('https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token').
+[Refer this](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token).
 * Add your github access token to `access_token` variable in gitsetup.py
 * Make a gitsetup.bat file.
 * In gitsetup.bat write `python pathToYourScript.py` 
